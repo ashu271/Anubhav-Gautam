@@ -7,7 +7,7 @@
 
 ### 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📂 [GitHub](https://github.com/your-username)  
+- 📂 [GitHub](https://github.com/ashu271)  
 - ✉️ Email: ab27ashu@gmail.com 
 
 ### ⚡ Tech Stack  
