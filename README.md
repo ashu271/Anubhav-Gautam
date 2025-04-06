@@ -6,7 +6,7 @@
 🎯 **Looking to work on:** Open-source projects & real-world applications  
 
 ### 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/anubhav-gautam-1b322a291/)  
 - 📂 [GitHub](https://github.com/ashu271)  
 - ✉️ Email: ab27ashu@gmail.com 
 
